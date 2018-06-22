@@ -1,0 +1,128 @@
+Em chào thầy cô! Thầy cô cho em hỏi, bí quyết nào giúp chúng ta thương lượng thành công ? Em cảm ơn thầy cô !
+bí_quyết thương_lượng thành_công
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô Câu hỏi của em là Bí quyết để có cuộc đàm phán thành công? Mong thầy cô hỗ trợ
+bí_quyết đàm_phán thành_công hỗ_trợ
+
+0.7062963209407895
+____________________________________________________________________________________________________
+Em chào thầy cô! Thầy cô cho em hỏi, đối với những người đi phỏng vấn, nếu được nhà tuyển dụng hỏi về yêu cầu của mức lương thì người đó cần có những kỹ năng thương lượng về mức lương như thế nào ? Em cảm ơn !
+phỏng_vấn nhà tuyển_dụng yêu_cầu mức_lương kỹ_năng thương_lượng mức_lương
+----------------------------------------------------------------------------------------------------
+Thưa thầy, Khi phỏng vấn, để đàm phán thành công mức lương mình mong muốn thì cần những kỹ năng gì? Hoặc khi nhà phỏng vấn nhất định không đồng ý mức lương mình đề xuất thì lúc đó mình phải làm gì? Cám ơn thầy.
+phỏng_vấn đàm_phán thành_công mức_lương mong_muốn kỹ_năng nhà phỏng_vấn nhất_định không đồng_ý mức_lương đề_xuất
+
+0.6679965143020155
+____________________________________________________________________________________________________
+Kinh thưa thầy cô giáo, em có câu hỏi muốn nhờ thầy cô trả lời và giải thích giúp e với ạ. Trong bài luyện tập 1 có câu hỏi: Trước khi tiến hành đàm phán, nên sử dụng phương pháp phân tích SWOT để làm gì? và SWOT ở đây là viết tắt của cụm từ nào ạ? E xin cảm ơn
+kinh cô_giáo giải_thích bài luyện_tập 1 tiến_hành đàm_phán sử_dụng phương_pháp phân_tích swot swot viết tắt cụm_từ
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô cho em hỏi SWOT là viết tắt của cụm từ nào. SWOT là phương pháp gì và cách thức áp dụng SWOT cho một cuộc đàm phán là như thế nào. Rất mong được thấy cô trả lời Em cảm ơn thầy cô!
+swot viết tắt cụm_từ swot phương_pháp cách_thức áp_dụng swot đàm_phán
+
+0.6866076590836856
+____________________________________________________________________________________________________
+Chào Thầy Cô! Thưa Thầy cô cho em hỏi cách để học tốt môn phát triển cá nhân này không Thầy Cô giúp em. Em cảm ơn Thầy Cô!
+cách tốt môn phát_triển cá_nhân không
+----------------------------------------------------------------------------------------------------
+làm sao để phát triển cá nhân
+phát_triển cá_nhân
+
+0.7219527947979361
+____________________________________________________________________________________________________
+thưa thầy cô cho em hỏi: đàm phán kiểu mềm và đàm phán kiểu cứng là sao vậy? em cảm ơn
+đàm_phán mềm đàm_phán cứng sao_vậy
+----------------------------------------------------------------------------------------------------
+Chào cô ! Cô cho em hỏi đàm phán mềm và đàm phán cứng đàm phán nào quan trọng hơn ? Em xin chân thành cảm ơn !
+đàm_phán mềm đàm_phán cứng đàm_phán quan_trọng
+
+0.6738638664757853
+____________________________________________________________________________________________________
+Chào Thầy Cô! Thưa Thầy Cô cho em hỏi làm cách nào để có một cuộc đàm phám tốt nhất,Thầy Cô chỉ giúp em. Em cảm ơn Thầy Cô!
+cách đàm phám tốt nhất
+----------------------------------------------------------------------------------------------------
+Thưa cô cho em hỏi Kỹ năng đàm phám có vai trò như thế nào trong việc có được kết quả đàm phám thành công hay không ? Cám ơn cô !
+kỹ_năng đàm phám vai_trò kết_quả đàm phám thành_công không
+
+0.7118520343802266
+____________________________________________________________________________________________________
+Thưa cô cho em hỏi? Luận điểm nào dưới đây thể hiện đúng bản chất của hoạt động đàm phán? C) Hoạt động đàm phán luôn gắn liền với sự tồn tại của con người. đây là đáp án đúng theo em đáp án đúng là Hoạt động đàm phán chỉ xuất hiện khi con người cần phải giải quyết những mâu thuẫn trong hoạt động kinh doanh Sai Tại sao vậy thưa cô!
+luận_điểm dưới_đây thể_hiện đúng bản_chất hoạt_động đàm_phán c ) hoạt_động đàm_phán gắn liền tồn_tại con_người đáp_án đúng đáp_án đúng hoạt_động đàm_phán xuất_hiện con_người giải_quyết mâu_thuẫn hoạt động kinh_doanh sai tại_sao_vậy
+----------------------------------------------------------------------------------------------------
+Câu7 [Góp ý] Điểm : 1 Luận điểm nào dưới đây thể hiện đúng bản chất của hoạt động đàm phán? Chọn một câu trả lời A) Hoạt động đàm phán chỉ xuất hiện khi con người cần phải giải quyết những mâu thuẫn trong hoạt động kinh doanh B) Hoạt động đàm phán chỉ xuất hiện khi con người có đối kháng về lợi ích C) Hoạt động đàm phán luôn gắn liền với sự tồn tại của con người D) Hoạt động đàm phán chỉ cần thiết khi con người thực hiện những công việc quan trọng Đúng. Đáp án đúng là: Hoạt động đàm phán luôn gắn liền với sự tồn tại của con người Theo e nghĩ đáp án D đúng hơn vì những công việc bình thường không cần diễn ra hoạt động đàm phán vì không cần thiết
+câu7 [ ] điểm 1 luận_điểm dưới_đây thể_hiện đúng bản_chất hoạt_động đàm_phán chọn a ) hoạt_động đàm_phán xuất_hiện con_người giải_quyết mâu_thuẫn hoạt động kinh_doanh b ) hoạt_động đàm_phán xuất_hiện con_người đối_kháng lợi_ích c ) hoạt_động đàm_phán gắn liền tồn_tại con_người d ) hoạt_động đàm_phán cần_thiết con_người quan_trọng đúng đáp_án đúng hoạt_động đàm_phán gắn liền tồn_tại con_người nghĩ đáp_án d đúng bình_thường không diễn hoạt_động đàm_phán không cần_thiết
+
+0.8781993082347257
+____________________________________________________________________________________________________
+Thưa cô cho em hỏi? Đám phán kiểu nguyên tắc và đàm phát kiểu lập trường khác nhau như thế nào vậy thưa cô. Trân trọng và cảm ơn cô!!
+đám phán nguyên_tắc đàm phát lập_trường khác nhau
+----------------------------------------------------------------------------------------------------
+đàm phán kiểu nguyên tắc là gì?
+đàm phán nguyên_tắc
+
+0.6101293373657273
+____________________________________________________________________________________________________
+Em xin chào thầy cô: Quá trình làm BTVN 1 có câu hỏi như sau: Người thoải mái, dễ gần, thích hài hước, linh hoạt và dễ thích nghi là thuộc loại phong cách nào? Mong thầy cô trả lời giúp để em hiểu rõ hơn về câu hỏi này với ạ? E xin chân thành cảm ơn
+quá_trình btvn 1 thoải_mái dễ gần thích hài_hước linh_hoạt dễ thích_nghi loại phong_cách
+----------------------------------------------------------------------------------------------------
+Em chào thầy cô! Thầy/ cô cho em hỏi: Khi em làm BTVN môn PSD102 có gặp câu hỏi như thế này ạ! Tìm phương án đúng: "Người thoải mái, dễ gần, thích hài ước, linh hoạt và dễ thích nghi" là thuộc loại phong cách nào? Em thấy người hội tụ tính cách như vậy là người có phong cách "Ôn hòa" chứ ạ! Sao lại là người có phong cách " Tổng hợp " ạ? Em thắc mắc quá ạ! Em cảm ơn thầy/ cô!
+btvn môn psd102 gặp thế_này tìm phương_án đúng thoải_mái dễ gần thích hài ước linh_hoạt dễ thích_nghi loại phong_cách hội_tụ tính_cách phong_cách ôn_hòa phong_cách tổng_hợp
+
+0.6342995001813512
+____________________________________________________________________________________________________
+Thưa thầy cô cho em hỏi:Trong khi đàm phán cần xác định rõ thực lực của bản thân và thực lực của đối tác đẻ làm gì? Em cảm ơn.
+đàm_phán xác_định thực_lực bản_thân thực_lực đối_tác đẻ
+----------------------------------------------------------------------------------------------------
+Thưa giảng viên cho em hỏi: trong giai đoạn chuẩn bị đàm phán thông thường người đàm phán cần xác định rõ thực lực của bản thân và thực lực của đối tác để làm gì? em cảm ơn
+giai_đoạn chuẩn_bị đàm_phán thông_thường đàm_phán xác_định thực_lực bản_thân thực_lực đối_tác
+
+0.7974697774297992
+____________________________________________________________________________________________________
+thưa thầy cô cho em hỏi y nghĩa cua từ BATNA
+y nghĩa cua từ batna
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô cho em hỏi : BATNA Nghĩa là gì ạ. Em cảm ơn thầy cô!
+batna nghĩa
+
+0.7070928293576149
+____________________________________________________________________________________________________
+Thưa cô cho em hỏi? Xác định phương án đúng. Khi nói với một đối tượng khán giả có lượng kiến thức còn hạn chế thì người thuyết trình cần: D) Quan sát thái độ tiếp nhận của khán giả để điều chỉnh tốc độ nói Sao đáp án không phải là nói thật chậm vậy cô. Trân trọng và cảm ơn cô!!
+xác_định phương_án đúng nói đối_tượng khán_giả lượng kiến_thức hạn_chế thuyết_trình d ) quan_sát thái_độ tiếp_nhận khán_giả điều_chỉnh tốc_độ nói đáp_án không nói_thật chậm
+----------------------------------------------------------------------------------------------------
+Kính thưa thầy cô. Khi chúng ta thuyết trình,và khi nói với đối tượng khán giả có lượng kiến thức còn hạn chế thì mình cần nói thật chậm để khán giả có thể kịp tiếp nhận thông tin chứ sao phải lại là quan sát thái đọ tiếp nhận của khán giả để đều chỉnh tốc độ nói ạ? Cảm ơn thầy cô ạ!
+thuyết_trình nói đối_tượng khán_giả lượng kiến_thức hạn_chế nói_thật chậm khán_giả kịp tiếp_nhận thông_tin chứ_sao phải_lại quan_sát thái đọ tiếp_nhận khán_giả chỉnh tốc_độ nói
+
+0.7146749942252344
+____________________________________________________________________________________________________
+Chào Thầy Cô! Thưa Thầy Cô cho em hỏi làm cách nào để mình có một bài thuyết trình tốt.Thầy Cô cgir giúp em. Em cảm ơn Thầy Cô!
+cách bài thuyết_trình tốt cgir
+----------------------------------------------------------------------------------------------------
+Thưa thầy cho em hỏi cách để học tốt.Em cảm ơn thầy!
+cách tốt
+
+0.7733322356243385
+____________________________________________________________________________________________________
+Thưa thầy cô cho em hỏi. *Thông thường các khán giả có độ tuổi, giới tính, nghề nghiệp, địa vị khác nhau sẽ có sự phản ứng khác nhau đối với cùng một bài thuyết trình. *Các khán giả có độ tuổi giới tính, nghề nghiệp giống nhau cũng không thể có phản ứng giống nhau đối với cùng một bài thuyết trình. 2 câu này em ko hiểu lắm, theo em thì ý nghĩa của 2 câu giống nhau, nhưng đáp án thì chỉ có 1, nên mong thầy cô giải thích về 2 câu này rõ hơn dùm em 1 chút dc ko ạ. em cảm ơn thầy cô!
+* thông_thường khán_giả độ tuổi giới_tính nghề_nghiệp địa_vị khác_nhau phản_ứng khác_nhau bài thuyết_trình * khán_giả độ tuổi giới_tính nghề_nghiệp giống nhau không_thể phản_ứng giống nhau bài thuyết_trình 2 không ý_nghĩa 2 giống nhau đáp_án 1 giải_thích 2 dùm 1 chút dc không
+----------------------------------------------------------------------------------------------------
+Xin chào thầy! Em chưa rõ sự khác nhau ở 2 phương án này: A. Thông thường các khán giả có độ tuổi, giới tính, nghề nghiệp, địa vị khác nhau sẽ có sự phản ứng khác nhau đối với cùng một bài thuyết trình. B. Các khán giả có độ tuổi, giới tính, nghề nghiệp giống nhau cũng không thể có phản ứng giống nhau đối với cùng một bài thuyết trình. Xin được thầy hướng dẫn thêm, em xin cám ơn ạ!
+khác_nhau 2 phương_án a thông_thường khán_giả độ tuổi giới_tính nghề_nghiệp địa_vị khác_nhau phản_ứng khác_nhau bài thuyết_trình b khán_giả độ tuổi giới_tính nghề_nghiệp giống nhau không_thể phản_ứng giống nhau bài thuyết_trình hướng_dẫn
+
+0.9187791334669758
+____________________________________________________________________________________________________
+thầy cô cho em hỏi yếu tố quan trọng cần chú ý trong đàm phán là gì em cảm ơn
+quan_trọng chú_ý đàm_phán
+----------------------------------------------------------------------------------------------------
+thưa thầy để đàm phán thành công cần chú ý những vấn đề gì?
+đàm_phán thành_công chú_ý
+
+0.6839781898936165
+____________________________________________________________________________________________________
+Thầy cô cho em hỏi, theo em thu thập thông tin tư liệu cho bài thuyết trình là công việc cần thục hiện trong giai đoạn chọn chủ đề vì khi chọn chủ đề mình có thể nắm được các tư liệu có thể tìm được hay không? thầy cô có thể giải thích giúp em. Cám ơn thầy cô Trân trọng.
+thu_thập thông_tin tư_liệu bài thuyết_trình thục giai_đoạn chọn chủ_đề chọn chủ_đề nắm tư_liệu tìm không giải_thích
+----------------------------------------------------------------------------------------------------
+DEAR quý thầy cô cho e hỏi : Thu thập thông tin tư liệu cho bài thuyết trình là công việc cần thực hiện trong giai đoạn nào? e xin cảm ơn quý thầy cô ạ
+thu_thập thông_tin tư_liệu bài thuyết_trình giai_đoạn
+
+0.6639594551139483
+____________________________________________________________________________________________________

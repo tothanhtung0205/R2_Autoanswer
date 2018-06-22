@@ -1,0 +1,270 @@
+Làm thế nào để biết đối tác không thích nghe một vấn đề nào đó trong quá trình đàm phán ạ .
+
+đối_tác không thích nghe nào_đó quá_trình đàm_phán
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô cho e hỏi! Các dấu hiệu để biết đối tác không thích nghe hoặc lơ là một vấn đề nào đó trong quá trình đàm phán. Em cảm ơn thầy cô!
+dấu_hiệu đối_tác không thích nghe lơ nào_đó quá_trình đàm_phán
+
+0.7558824162121331
+____________________________________________________________________________________________________
+Thưa thầy cô cho em hỏi! Mục đích của đàm phán là để xây dựng mối quan hệ hay để chiến thắng đối phương. Em cảm ơn thầy cô!
+
+mục_đích đàm_phán xây_dựng mối quan_hệ chiến_thắng đối_phương
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô cho em hỏi! Trong quá trình làm việc với đối tác, đàm phán để xây dựng mối quan hệ hay để chiến thắng đối phương. Em cảm ơn thầy cô!
+quá_trình làm_việc đối_tác đàm_phán xây_dựng mối quan_hệ chiến_thắng đối_phương
+
+0.8045734522251458
+____________________________________________________________________________________________________
+Thưa cô , Trong môn này làm thế nào để em có thể làm bài thi thật tốt và nhanh được ạ . e xin cảm ơn
+
+môn bài_thi thật tốt nhanh
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô,chi e hỏi.làm thế nào để làm bài thi thật tốt và nhanh.e xin cảm ơn
+chi bài_thi thật tốt nhanh
+
+0.8335707478904201
+____________________________________________________________________________________________________
+Thưa thầy cô,trong bảng điểm cá nhân của e không hiện điểm mặc dù em đã làm hết bài tập .thầy cô kiểm tra giúp e với ạ .
+
+bảng điểm cá_nhân không điểm mặc_dù hết bài_tập kiểm_tra
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô,sao e làm bài tập hết mà trong lipe cá nhân của e không hiện điểm.xin thầy cô kiểm tra giúp e.e xin cảm ơn
+bài_tập hết lipe cá_nhân không điểm kiểm_tra
+
+0.6612497703600808
+____________________________________________________________________________________________________
+Thưa thầy cô, cho e hỏi em đang làm bài mà bị mất kết nối thì em có phải làm lại hay không ạ .
+
+làm_bài mất kết_nối hay_không
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô, cho e hỏi sao e làm bài mà nộp bài ko đc.máy báo mất kết nối.và e lại phải làm lại.xin thầy cô giải đáp giúp e.e xin cảm ơn
+làm_bài nộp bài không đc máy báo mất kết_nối
+
+0.5262561607245742
+____________________________________________________________________________________________________
+Em là một người không được tự tin cho lắm .Em phải làm gì để tăng cường tự tin khi thuyết trình ạ . Cảm ơn thầy cô.
+
+không tự_tin cho_lắm tăng_cường tự_tin thuyết_trình
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô cho em hỏi: nếu một người không được tự tin thì phải làm gì để tăng cường tự tin khi thuyết trình trước nơi đông người Cảm ơn thầy cô.
+không tự_tin tăng_cường tự_tin thuyết_trình trước nơi đông
+
+0.6700367693795115
+____________________________________________________________________________________________________
+Thưa thầy cô cho em hỏi: môn học tâm lý kinh doanh sao chưa có sách giáo khoa ạ Cảm ơn thầy cô
+
+môn_học tâm_lý kinh_doanh sách giáo_khoa
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô cho em hỏi: môn học tâm lý kinh doanh sao trường chưa cung cấp tài liệu sách giáo khoa Cảm ơn thầy cô
+môn_học tâm_lý kinh_doanh trường cung_cấp tài_liệu sách giáo_khoa
+
+0.8035137467528675
+____________________________________________________________________________________________________
+Thưa thầy cô cho em hỏi: sao môn học kỹ năng cá nhân 2 em vẫn chưa được phát tài liệu
+
+môn_học kỹ_năng cá_nhân 2 phát_tài_liệu
+----------------------------------------------------------------------------------------------------
+Dear Môn học này có được thực hành để phát triển kỹ năng cá nhân không ah.
+môn_học thực_hành phát_triển kỹ_năng cá_nhân không
+
+0.6295683105559468
+____________________________________________________________________________________________________
+Em đã vào đường link theo hướng dẫn, nhập tài khoản và pass đăng nhập nhưng không được. Nhờ cô hướng dẫn thêm cho em với ạ .
+
+đường link hướng_dẫn nhập tài_khoản pass đăng nhập không hướng_dẫn
+----------------------------------------------------------------------------------------------------
+Thưa cô, em đã vào theo đường link theo hướng dẫn, nhập tài khoản và pass đăng nhập nhưng không được. Nhờ cô hướng dẫn thêm, em cảm ơn.
+đường link hướng_dẫn nhập tài_khoản pass đăng nhập không hướng_dẫn
+
+1.0000000000000002
+____________________________________________________________________________________________________
+Thưa cô cho em hỏi. môn EG020 em không thấy phần đặt câu hỏi trên diễn đàn và mọi người tham gia thảo luận như các môn khác là sao ạ. Mong cô giải đáp thắc mắc.
+
+môn eg020 không đặt diễn_đàn tham_gia thảo_luận môn khác
+----------------------------------------------------------------------------------------------------
+Thưa cô cho em hỏi. Em thấy các môn học trước đều có đặt câu hỏi trên diễn đàn và mọi người tham gia thảo luận còn môn EG020 em không thấy. Em xin cảm ơn cô giải đáp thắc mắc.
+môn_học trước đặt diễn_đàn tham_gia thảo_luận môn eg020 không
+
+0.8273336065716074
+____________________________________________________________________________________________________
+Thưa cô cho em hỏi em có thể xin làm lại bài tập về nhà nếu bận việc mà chưa làm được không ạ .
+
+làm_lại bài_tập nhà bận không
+----------------------------------------------------------------------------------------------------
+Thưa cô cho em hỏi nếu bận việc ma ko làm được bài tập về nhà mình có thể xin làm lại không. Cám ơn cô!
+bận ma không bài_tập nhà làm_lại không
+
+0.8206462208208496
+____________________________________________________________________________________________________
+Thưa Quản lý học tập. Bài tập về nhà 1 mình ko vào làm bài được do mình có việc bận, không biết mình có thể làm lại không .
+
+quản_lý học_tập bài_tập nhà 1 không làm_bài bận không không
+----------------------------------------------------------------------------------------------------
+Thưa Quản lý học tập. Bài tập về nhà 1 vừa rồi mình có việc bận nên ko vào làm bài được, không biết bài đã đóng có thể mở lại làm không thưa quản lý. Cảm ơn quản lý !
+quản_lý học_tập bài_tập nhà 1 vừa_rồi bận không làm_bài không bài đóng mở không quản_lý quản_lý
+
+0.7750500837042141
+____________________________________________________________________________________________________
+Cho em hỏi Trong đàm phán Mối quan hệ có phải là một trong những yếu tố giúp thành công phải không ạ? Xin Cảm ơn Cô.
+
+đàm_phán mối quan_hệ thành_công không
+----------------------------------------------------------------------------------------------------
+Xin Cho em hỏi Trong đàm phán Mối quan hệ thường có yếu tố thành công nhất định phải không ạ? Xin Cảm ơn Cô.
+đàm_phán mối quan_hệ thành_công nhất_định không
+
+0.7801326231885997
+____________________________________________________________________________________________________
+Giáo viên bộ môn cho em hỏi trong quá trình đàm phán , nếu người tham gia đàm phán có mối quan hệ bạn bè từ trước thì cuộc đàm phán có diễn ra thành công hay không. Em xin cảm ơn.
+
+giáo_viên bộ_môn quá_trình đàm_phán tham_gia đàm_phán mối quan_hệ bạn_bè từ trước đàm_phán diễn thành_công không
+----------------------------------------------------------------------------------------------------
+Em xin chào giáo viên bộ môn. Cho em hỏi trong quá trình đàm phán thì nếu có mối quan hệ bạn bè mật thiết từ trước thì cuộc đàm phán có diễn ra thành công như mong đợi. Em xin cảm ơn.
+giáo_viên bộ_môn quá_trình đàm_phán mối quan_hệ bạn_bè mật_thiết từ trước đàm_phán diễn thành_công mong_đợi
+
+0.8124393402632459
+____________________________________________________________________________________________________
+Trong các phong cách đàm phán thì phong cách nào tốt nhất và vì sao?
+
+phong_cách đàm_phán phong_cách tốt nhất vì_sao
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô cho em hỏi: Trong 4 phong cách đàm phán thì phong cách nào có ưu điểm nhất Em cảm ơn thầy cô nhiều ạ
+4 phong_cách đàm_phán phong_cách nào ưu_điểm nhất nhiều
+
+0.6070842351590432
+____________________________________________________________________________________________________
+Thưa cô cho em hỏi : để qua môn thì điểm tổng kết của môn học bằng bao nhiêu . em cảm ơn cô !
+
+môn điểm tổng_kết môn_học bằng bao_nhiêu
+----------------------------------------------------------------------------------------------------
+Thưa cô cho em hỏi : kết thúc môn học : điểm tổng kết = bao nhiêu thì phải thi lại. em cảm ơn cô !
+kết_thúc môn_học điểm tổng_kết = bao_nhiêu thì_phải thi
+
+0.6330690681570861
+____________________________________________________________________________________________________
+Chào cô: Cô ơi, cho em hỏi: những yếu tố nào quyết định một cuộc đàm phán thành công ạ? Em cảm ơn!
+
+quyết_định đàm_phán thành_công
+----------------------------------------------------------------------------------------------------
+Thưa giảng viên cho em hỏi: Trong các yếu tố quyết định một cuộc đàm phán thành công, thì yếu tố nào là quan trọng nhất. Vì sao? Em cảm ơn giảng viên ạ!
+quyết_định đàm_phán thành_công quan_trọng nhất vì_sao
+
+0.69147368204726
+____________________________________________________________________________________________________
+Cô có thể chỉ cho em làm thế để người nghe cảm thấy thuyết phục khi nghe mình thuyết trình được không ạ.
+
+nghe cảm_thấy thuyết_phục nghe thuyết_trình không
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô cho em hỏi Người thuyết trình là người nói chứ không phải người nghe trong buổi thuyết trình có đúng không ạ? Em cảm ơn thầy cô!
+thuyết_trình nói không nghe thuyết_trình không
+
+0.5483056177605126
+____________________________________________________________________________________________________
+Thưa cô cho em hỏi, Trong thuyết trình , phần nào quan trọng nhất trong 3 phần : mở đầu, nội dung, kết luận . Cảm ơn cô.
+
+thuyết_trình phần_nào quan_trọng nhất 3 mở_đầu kết_luận
+----------------------------------------------------------------------------------------------------
+Thưa cô cho em hỏi, trong 3 phần : mở đầu, nội dung, kết luận . Phần nào quan trọng nhất ak? Cảm ơn cô.
+3 mở_đầu kết_luận phần_nào quan_trọng nhất ak
+
+0.8583209759598767
+____________________________________________________________________________________________________
+Thưa thầy cô , Em không thể xem được giáo trình trên điện thoại ạ .
+
+không_thể giáo_trình điện_thoại
+----------------------------------------------------------------------------------------------------
+Chào thầy cô! Em không xem được video trên điện thoại.
+không video điện_thoại
+
+0.46712633625065897
+____________________________________________________________________________________________________
+Thưa cô em muốn hỏi nên dùng cách nào để đàm phán với một người ít nói và cứng nhắc trong cộng việc . Em cảm ơn
+
+cách đàm_phán ít_nói cứng_nhắc cộng
+----------------------------------------------------------------------------------------------------
+Thưa cô em muốn hỏi Nếu muốn đàm phán với 1 người ít nói và cứng nhắc trông công việc thì ta nến tiếp cận như thế nào ah Em cảm ơn
+đàm_phán 1 ít_nói cứng_nhắc trông nến tiếp_cận
+
+0.5332772285519174
+____________________________________________________________________________________________________
+Điều quan trọng nhất của kỹ năng mềm là gì ạ ?
+
+quan_trọng nhất kỹ_năng mềm
+----------------------------------------------------------------------------------------------------
+Chào Cô, Để phát triển các kỹ năng mềm thì yếu tố và kỹ năng nào là quan trọng hơn, các kỹ năng có bổ sung cho nhau không ạ? Xin cảm ơn Cô.
+phát_triển kỹ_năng mềm kỹ_năng quan_trọng kỹ_năng bổ_sung nhau không
+
+0.5765555950919983
+____________________________________________________________________________________________________
+Em chào cô. Vui lòng cho em hỏi về cách tính điểm khi đăng bài trên H2472 ?
+
+cách tính điểm đăng bài h2472
+----------------------------------------------------------------------------------------------------
+Em chào cô. Vui lòng cho em hỏi phần tính điểm khi đăng bài trên H2472 thì tính như thế nào? Đăng mấy bài để được điểm ạ? Em cảm ơn cô ạ.
+tính điểm đăng bài h2472 tính đăng mấy bài điểm
+
+0.9192126849550788
+____________________________________________________________________________________________________
+Thưa cô! Cô có thể giúp em làm thế nào để hiểu hơn một người có vẻ nghiêm khắc không ạ? Em cảm ơn Cô
+
+nghiêm_khắc không
+----------------------------------------------------------------------------------------------------
+Thưa cô! Sếp em là người nghiêm khắc, em thấy chị ấy khó hiểu lắm. Cô có thể giúp em làm thế nào để hiểu hơn về chị ấy không ạ? Em cảm ơn Cô
+sếp nghiêm_khắc khó_hiểu không
+
+0.6751221350074142
+____________________________________________________________________________________________________
+Thưa Thày Cô! kỹ năng mềm và kỹ năng cứng khác nhau ở đâu ạ ? rèn luyện 2 kỹ năng đó như thế nào ? Cảm ơn Thầy Cô!
+
+kỹ năng mềm kỹ_năng cứng khác_nhau đâu rèn_luyện 2 kỹ_năng
+----------------------------------------------------------------------------------------------------
+Thưa Thày Cô! Sự khác nhau giữa kỹ năng mềm và kỹ năng cứng? Làm thế nào để rèn luyện kỹ năng? Cảm ơn Thầy Cô!
+khác_nhau kỹ_năng mềm kỹ_năng cứng rèn_luyện kỹ_năng
+
+0.7703334466193599
+____________________________________________________________________________________________________
+Thưa thầy cô làm cách nào để giảm bớt tâm lí căng thẳng và hồi hộp khi ta thuyết trình ah Em cảm ơn Thầy cô
+
+cách giảm_bớt tâm_lí căng_thẳng hồi_hộp thuyết_trình
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô em muốn làm các khắc phục tâm lí căng thẳng và hồi hộp khi ta thuyết trình ah Em cảm ơn Thầy cô
+khắc_phục tâm_lí căng_thẳng hồi_hộp thuyết_trình
+
+0.7746110784944831
+____________________________________________________________________________________________________
+Thưa thầy cô muốn thuyết phục 1 người khó tính , hay nóng giận ta nên thuyết phúc người đó theo cách nào ah
+
+thuyết_phục 1 khó_tính nóng_giận thuyết phúc cách
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô em muốn hỏi muốn thuyết phục 1 người khó tính ,luôn muốn áp đặt người khác theo ý của mình và hay nống giận ta nên thuyết phúc người đó theo cách nào ah
+thuyết_phục 1 khó_tính áp_đặt khác ý nống giận thuyết phúc nào
+
+0.6570754606258707
+____________________________________________________________________________________________________
+Thưa cô cho em hỏi : môn EG025 này thi trắc nghiệm hay tự luận vậy ạ. Em cảm ơn cô!
+
+môn eg025 thi trắc_nghiệm tự luận
+----------------------------------------------------------------------------------------------------
+Thưa cô cho em hỏi: Hình thức thi hết môn của bài EG025 nầy la trắc nghiệm hay tự luận vậy ạ. Em cảm ơn cô!
+hình_thức thi hết môn bài eg025 nầy la trắc_nghiệm tự luận
+
+0.7670373388025493
+____________________________________________________________________________________________________
+Thưa thầy, cô cho em hỏi? Giao tiếp bằng lời nói khác với giao tiếp phi ngôn ngữ thế nào ạ ? Em cảm ơn thầy, cô.
+
+giao_tiếp bằng lời_nói khác giao_tiếp phi ngôn_ngữ
+----------------------------------------------------------------------------------------------------
+Thưa thầy, cô cho em hỏi? Em muốn biết sự khác và giống nhau một cách cụ thể giữa giao tiếp qua lời nói và giao tiếp phi ngôn ngữ? Em cảm ơn thầy, cô.
+khác giống nhau một_cách cụ_thể giao_tiếp lời_nói giao_tiếp phi ngôn_ngữ
+
+0.7680214245110543
+____________________________________________________________________________________________________
+Chào cô: Cô ơi,cho em hỏi: Sự khác nhau giữa nghe chủ động và nghe thụ động là gì ạ? Em cảm ơn!
+
+khác_nhau nghe chủ_động nghe thụ_động
+----------------------------------------------------------------------------------------------------
+Chào cô: Cô ơi,cho em hỏi: nghe chủ động khác nghe thụ động như thế nào ạ? Em cảm ơn!
+nghe chủ_động khác nghe thụ_động
+
+0.8845719270866452
+____________________________________________________________________________________________________

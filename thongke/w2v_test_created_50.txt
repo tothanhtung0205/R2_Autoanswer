@@ -1,0 +1,269 @@
+Làm thế nào để biết đối tác không thích nghe một vấn đề nào đó trong quá trình đàm phán ạ .
+
+đối_tác không thích nghe nào_đó quá_trình đàm_phán
+----------------------------------------------------------------------------------------------------
+Chào cô cô cho em hỏi> Trong cuộc đàm phán, khi đối tác đang trình bày quan điểm của họ, để thể hiện sự tôn trọng đối tác, bạn cần làm gì? em cám ơn thầy cô,
+> đàm_phán đối_tác trình_bày quan_điểm họ thể_hiện tôn_trọng đối_tác
+
+0.999603703493016
+____________________________________________________________________________________________________
+Thưa thầy cô cho em hỏi! Mục đích của đàm phán là để xây dựng mối quan hệ hay để chiến thắng đối phương. Em cảm ơn thầy cô!
+
+mục_đích đàm_phán xây_dựng mối quan_hệ chiến_thắng đối_phương
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô cho em hỏi! Trong quá trình làm việc với đối tác, đàm phán để xây dựng mối quan hệ hay để chiến thắng đối phương. Em cảm ơn thầy cô!
+quá_trình làm_việc đối_tác đàm_phán xây_dựng mối quan_hệ chiến_thắng đối_phương
+
+0.9999341115329066
+____________________________________________________________________________________________________
+Thưa cô , Trong môn này làm thế nào để em có thể làm bài thi thật tốt và nhanh được ạ . e xin cảm ơn
+
+môn bài_thi thật tốt nhanh
+----------------------------------------------------------------------------------------------------
+Chào thầy cô. Em muốn hỏi vài vấn đề như sau: Để học tốt bài này chúng ta cần có những kỹ năng gì ? Sử dụng sơ đồ tư duy trong học tập mang lại hiệu quả như thế nào?
+vài tốt bài kỹ_năng sử_dụng sơ_đồ tư_duy học_tập mang_lại hiệu_quả
+
+0.9985796274045535
+____________________________________________________________________________________________________
+Thưa thầy cô,trong bảng điểm cá nhân của e không hiện điểm mặc dù em đã làm hết bài tập .thầy cô kiểm tra giúp e với ạ .
+
+bảng điểm cá_nhân không điểm mặc_dù hết bài_tập kiểm_tra
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô,sao e làm bài tập hết mà trong lipe cá nhân của e không hiện điểm.xin thầy cô kiểm tra giúp e.e xin cảm ơn
+bài_tập hết lipe cá_nhân không điểm kiểm_tra
+
+0.9996763098332186
+____________________________________________________________________________________________________
+Thưa thầy cô, cho e hỏi em đang làm bài mà bị mất kết nối thì em có phải làm lại hay không ạ .
+
+làm_bài mất kết_nối hay_không
+----------------------------------------------------------------------------------------------------
+Chào Cô QLHT, Cô xem file đính kèm giúp nha, Giảng viên trả lời câu hỏi của học viên đã thỏa đáng chưa, đã học viên không hiểu, chương trình học khuyến khích học viên trao đổi với các Giảng viên, QLHT, các bạn học viên để có thêm nhiều kiến thức. Vậy giảng viên trả lời như thế cho học viên??? Xin cảm ơn.
+qlht file đính kèm nha thỏa_đáng không chương_trình khuyến_khích trao_đổi qlht viên nhiều kiến_thức như_thế
+
+0.9993260542905441
+____________________________________________________________________________________________________
+Em là một người không được tự tin cho lắm .Em phải làm gì để tăng cường tự tin khi thuyết trình ạ . Cảm ơn thầy cô.
+
+không tự_tin cho_lắm tăng_cường tự_tin thuyết_trình
+----------------------------------------------------------------------------------------------------
+chào thầy cô! cho em hỏi: cách giữ vững tâm lý khi thuyết trình trước đám đông?
+giữ vững tâm_lý thuyết_trình trước đám_đông
+
+0.9992174906918071
+____________________________________________________________________________________________________
+Thưa thầy cô cho em hỏi: môn học tâm lý kinh doanh sao chưa có sách giáo khoa ạ Cảm ơn thầy cô
+
+môn_học tâm_lý kinh_doanh sách giáo_khoa
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô cho em hỏi: môn học tâm lý kinh doanh sao trường chưa cung cấp tài liệu sách giáo khoa Cảm ơn thầy cô
+môn_học tâm_lý kinh_doanh trường cung_cấp tài_liệu sách giáo_khoa
+
+0.9998432403237207
+____________________________________________________________________________________________________
+Thưa thầy cô cho em hỏi: sao môn học kỹ năng cá nhân 2 em vẫn chưa được phát tài liệu
+
+môn_học kỹ_năng cá_nhân 2 phát_tài_liệu
+----------------------------------------------------------------------------------------------------
+Thưa cô cho em hỏi? Về mặt chung nhất thì môn học phát triển kỷ năng cá nhân 1 và phát triển kỷ năng cá nhân 2 có những điểm gì khác nhau? Em cảm ơn cô
+mặt chung nhất_thì môn_học phát_triển kỹ_năng cá_nhân 1 phát_triển kỹ_năng cá_nhân 2 điểm khác_nhau
+
+0.998401117205193
+____________________________________________________________________________________________________
+Em đã vào đường link theo hướng dẫn, nhập tài khoản và pass đăng nhập nhưng không được. Nhờ cô hướng dẫn thêm cho em với ạ .
+
+đường link hướng_dẫn nhập tài_khoản pass đăng nhập không hướng_dẫn
+----------------------------------------------------------------------------------------------------
+Thưa cô ! Cô cho em hỏi, em đã nhận được Email cô gửi các lớp ICD7A, ICD7B, ICD7C, ICD7D và ICD7E sẽ được gộp thành một lớp ICD7 . Cô cho em hỏi bắt đầu từ môn học này nếu có bài tập nhóm em thuộc vào nhóm này phải ko cô, hiện e đang theo học lớp ICD7E. Còn nhóm có các thành viên trước kia không liên quan đến lớp nữa phải không cô? Em cảm ơn cô
+nhận email lớp icd7a icd7b icd7c icd7d icd7e gộp lớp icd7 bắt_đầu từ môn_học bài_tập nhóm nhóm không lớp icd7e nhóm thành_viên trước_kia không lớp không
+
+0.9997153107264612
+____________________________________________________________________________________________________
+Thưa cô cho em hỏi. môn EG020 em không thấy phần đặt câu hỏi trên diễn đàn và mọi người tham gia thảo luận như các môn khác là sao ạ. Mong cô giải đáp thắc mắc.
+
+môn eg020 không phần đặt diễn_đàn tham_gia thảo_luận môn khác
+----------------------------------------------------------------------------------------------------
+- thưa thầy e không vô được diễn đàn 2 môn học đại số và pháp luật . Vào diễn đàn báo lỗi như ảnh kèm xin cám ơn!
+không vô diễn_đàn 2 môn_học đại_số pháp_luật diễn_đàn báo lỗi ảnh kèm
+
+0.9994853194254903
+____________________________________________________________________________________________________
+Thưa cô cho em hỏi em có thể xin làm lại bài tập về nhà nếu bận việc mà chưa làm được không ạ .
+
+làm_lại bài_tập nhà bận không
+----------------------------------------------------------------------------------------------------
+Kính chào cô giáo! Thưa cô cho em hỏi tại sao một số bài tập về nhà được gia hạn thời gian còn một số bài tập về nhà thì không được gia hạn. Em cảm ơn thầy cô.
+cô_giáo tại_sao bài_tập nhà gia_hạn thời_gian bài_tập nhà không gia_hạn
+
+0.99988409700467
+____________________________________________________________________________________________________
+Thưa Quản lý học tập. Bài tập về nhà 1 mình ko vào làm bài được do mình có việc bận, không biết mình có thể làm lại không .
+
+quản_lý học_tập bài_tập nhà 1 không làm_bài bận không không
+----------------------------------------------------------------------------------------------------
+Chào cô! Việc lưu các bài tập luyện tập trắc nghiệm hoặc bài tập về nhà dưới dạng web rất bất tiện, khó quản lý. Cô có thể hỗ trợ làm thế nào để lưu các trang này dưới dạng PDF không ạ. Xin lỗi vì đã làm phiền cô. Cảm ơn.
+lưu bài_tập luyện_tập trắc_nghiệm bài_tập nhà_dưới dạng web bất_tiện khó quản_lý hỗ_trợ lưu trang dưới dạng pdf không xin_lỗi phiền
+
+0.9993692303795119
+____________________________________________________________________________________________________
+Cho em hỏi Trong đàm phán Mối quan hệ có phải là một trong những yếu tố giúp thành công phải không ạ? Xin Cảm ơn Cô.
+
+đàm_phán mối quan_hệ thành_công không
+----------------------------------------------------------------------------------------------------
+Xin Cho em hỏi Trong đàm phán Mối quan hệ thường có yếu tố thành công nhất định phải không ạ? Xin Cảm ơn Cô.
+đàm_phán mối quan_hệ thành_công nhất_định không
+
+0.9997147066441581
+____________________________________________________________________________________________________
+Giáo viên bộ môn cho em hỏi trong quá trình đàm phán , nếu người tham gia đàm phán có mối quan hệ bạn bè từ trước thì cuộc đàm phán có diễn ra thành công hay không. Em xin cảm ơn.
+
+giáo_viên bộ_môn quá_trình đàm_phán tham_gia đàm_phán mối quan_hệ bạn_bè từ trước đàm_phán diễn thành_công không
+----------------------------------------------------------------------------------------------------
+Thưa thầy, đối với người nóng tính, bộc trực thì cần làm gì trước và trong khi đàm phán để đảm bảo đàm phán thành công và giữ được mối quan hệ với đối tác? Rất mong nhận được sự chia sẽ của Thầy Trân trọng Huỳnh Hiếu
+nóng_tính bộc_trực làm_gì trước đàm_phán đảm_bảo đàm_phán thành_công giữ mối quan_hệ đối_tác nhận chia huỳnh hiếu
+
+0.9994487690552569
+____________________________________________________________________________________________________
+Trong các phong cách đàm phán thì phong cách nào tốt nhất và vì sao?
+
+phong_cách đàm_phán phong_cách tốt nhất vì_sao
+----------------------------------------------------------------------------------------------------
+Thưa thầy/ cô cho em hỏi? Trong 4 phong cách của con người khi đàm phán thì phong cách nào dễ dẫn đến cuộc đàm phán thành công nhất và vì sao vậy ah? Em cảm ơn thầy/ cô!
+4 phong_cách con_người đàm_phán phong_cách nào_dễ dẫn đàm_phán thành_công nhất sao_vậy
+
+0.9991049541556194
+____________________________________________________________________________________________________
+Thưa cô cho em hỏi : để qua môn thì điểm tổng kết của môn học bằng bao nhiêu . em cảm ơn cô !
+
+môn điểm tổng_kết môn_học bằng bao_nhiêu
+----------------------------------------------------------------------------------------------------
+em muốn hỏi về điểm tổng kết môn nếu chỉ được 4,5đ thì có phải thi lại không vậy?cảm ơn QLHT
+điểm tổng_kết môn 4 5 đ thi không qlht
+
+0.9997089590836966
+____________________________________________________________________________________________________
+Chào cô: Cô ơi, cho em hỏi: những yếu tố nào quyết định một cuộc đàm phán thành công ạ? Em cảm ơn!
+
+quyết_định đàm_phán thành_công
+----------------------------------------------------------------------------------------------------
+Thưa thầy/cô cho em hỏi Cuộc đàm phán đôi bên thật sự thành công khi nào? Em xin cám ơn
+đàm_phán đôi_bên thật_sự thành_công khi_nào
+
+0.9998648080810548
+____________________________________________________________________________________________________
+Cô có thể chỉ cho em làm thế để người nghe cảm thấy thuyết phục khi nghe mình thuyết trình được không ạ.
+
+nghe cảm_thấy thuyết_phục nghe thuyết_trình không
+----------------------------------------------------------------------------------------------------
+Thưa cô cho em hỏi Thuyết trình là gì? Các kĩ năng thuyết trình,Kĩ năng thuyết phục người khác nghe mình thuyết trình như thế nào ạ. Em cảm ơn cô.
+thuyết_trình kĩ_năng thuyết_trình kĩ_năng thuyết_phục khác nghe thuyết_trình
+
+0.9993487372427241
+____________________________________________________________________________________________________
+Thưa cô cho em hỏi, Trong thuyết trình , phần nào quan trọng nhất trong 3 phần : mở đầu, nội dung, kết luận . Cảm ơn cô.
+
+thuyết_trình phần_nào quan_trọng nhất 3 phần mở_đầu kết_luận
+----------------------------------------------------------------------------------------------------
+Chào cô ! Cô cho e hỏi kỹ năng thuyết trình mang sức thuyết phục cao cần có những yếu tố nào ? Em xin chân thành cảm ơn !
+kỹ_năng thuyết_trình sức thuyết_phục cao nào
+
+0.9986821897986609
+____________________________________________________________________________________________________
+Thưa thầy cô , Em không thể xem được giáo trình trên điện thoại ạ .
+
+không_thể giáo_trình điện_thoại
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô cho em hỏi: môn học tâm lý kinh doanh sao trường chưa cung cấp tài liệu sách giáo khoa Cảm ơn thầy cô
+môn_học tâm_lý kinh_doanh trường cung_cấp tài_liệu sách giáo_khoa
+
+0.9997618257955709
+____________________________________________________________________________________________________
+Thưa cô em muốn hỏi nên dùng cách nào để đàm phán với một người ít nói và cứng nhắc trong cộng việc . Em cảm ơn
+
+cách đàm_phán ít_nói cứng_nhắc cộng
+----------------------------------------------------------------------------------------------------
+để hiểu và nhớ lâu các cuộc đàm phán mình cần nắm vững điều gì.em cảm ơn cô
+lâu đàm_phán nắm_vững
+
+0.999848967280507
+____________________________________________________________________________________________________
+Điều quan trọng nhất của kỹ năng mềm là gì ạ ?
+
+quan_trọng nhất kỹ_năng mềm
+----------------------------------------------------------------------------------------------------
+Dạ thưa Thầy Cô cho em hỏi: Em rất nhát khi nói chuyện với mọi người, vậy làm thế nào để em có kỹ năng đàm phán tốt, mong Thầy Cô chỉ dẫn cho em ạ. Em xin cảm ơn Thầy Cô ạ.
+nhát nói_chuyện kỹ_năng đàm_phán tốt chỉ_dẫn
+
+0.997778297912868
+____________________________________________________________________________________________________
+Em chào cô. Vui lòng cho em hỏi về cách tính điểm khi đăng bài trên H2472 ?
+
+cách tính điểm đăng bài h2472
+----------------------------------------------------------------------------------------------------
+Thưa thầy cô cho em hỏi là ở tuần 7 e chưa kip làm bài tập trắc nghiệm để qua tuần 8 e mới làm vậy là e k thể tích luỹ điểm chuyên cần ở bài luyện tập trắc nghiệm 4 hả cô. em cảm ơn.
+ở tuần 7 kip bài_tập trắc_nghiệm tuần 8 k tích_luỹ điểm chuyên_cần ở bài luyện_tập trắc_nghiệm 4
+
+0.9983598438476239
+____________________________________________________________________________________________________
+Thưa cô! Cô có thể giúp em làm thế nào để hiểu hơn một người có vẻ nghiêm khắc không ạ? Em cảm ơn Cô
+
+nghiêm_khắc không
+----------------------------------------------------------------------------------------------------
+chào quý thầy cô laptop của em không xem được video bài giảng, em phải làm sao? em xin cảm ơn
+laptop không video
+
+0.9997123073837769
+____________________________________________________________________________________________________
+Thưa Thày Cô! kỹ năng mềm và kỹ năng cứng khác nhau ở đâu ạ ? rèn luyện 2 kỹ năng đó như thế nào ? Cảm ơn Thầy Cô!
+
+kỹ năng mềm kỹ_năng cứng khác_nhau đâu rèn_luyện 2 kỹ_năng
+----------------------------------------------------------------------------------------------------
+Kiến thức quan trọng nhất của kỹ năng mềm là gì? Có thể hiểu đúng nghĩa kỹ năng mềm là nghệ thuật sống được không? Hay kỹ năng mềm là kỹ năng sống ở đời cho đúng lẽ đời, đúng đạo lý?
+kiến_thức quan_trọng nhất kỹ_năng mềm nghĩa kỹ_năng mềm nghệ_thuật sống không kỹ_năng mềm kỹ_năng sống ở_đời lẽ đời đạo_lý
+
+0.9991788384258902
+____________________________________________________________________________________________________
+Thưa thầy cô làm cách nào để giảm bớt tâm lí căng thẳng và hồi hộp khi ta thuyết trình ah Em cảm ơn Thầy cô
+
+cách giảm_bớt tâm_lí căng_thẳng hồi_hộp thuyết_trình
+----------------------------------------------------------------------------------------------------
+Chào cô , Thầy! cho em hỏi : người thuyết trình viên như thế nào là chuẩn mức Em cám ơn cô ,Thầy!
+thuyết_trình viên chuẩn mức
+
+0.9994734114876915
+____________________________________________________________________________________________________
+Thưa thầy cô muốn thuyết phục 1 người khó tính , hay nóng giận ta nên thuyết phúc người đó theo cách nào ah
+
+thuyết_phục 1 khó_tính nóng_giận thuyết phúc cách
+----------------------------------------------------------------------------------------------------
+Chào Thày, cô. Em hỏi về bài kỹ năng đàm phán/thương lượng cơ bản của tuần này (07/03/2016 - 13/03/2016). Slide &video lẫn tạp âm có chô không nghe rõ. Em đã thử 3 máy tính rồi ạ. Cảm ơn thày cô.
+bài kỹ_năng đàm_phán thương_lượng cơ_bản tuần ( 07 03 2016 13 03 2016 ) slide & video lẫn tạp_âm chô không nghe thử 3 máy_tính
+
+0.9992135378633705
+____________________________________________________________________________________________________
+Thưa cô cho em hỏi : môn EG025 này thi trắc nghiệm hay tự luận vậy ạ. Em cảm ơn cô!
+
+môn eg025 thi trắc_nghiệm tự luận
+----------------------------------------------------------------------------------------------------
+Em chào cô! Cô ơi ngành học kế toán có bao nhiêu môn thì thi trắc nghiệm và bao nhiêu môn thi viết vậy cô?
+ngành kế_toán bao_nhiêu môn thi trắc_nghiệm bao_nhiêu môn thi viết
+
+0.9996688114876457
+____________________________________________________________________________________________________
+Thưa thầy, cô cho em hỏi? Giao tiếp bằng lời nói khác với giao tiếp phi ngôn ngữ thế nào ạ ? Em cảm ơn thầy, cô.
+
+giao_tiếp bằng lời_nói khác giao_tiếp phi ngôn_ngữ
+----------------------------------------------------------------------------------------------------
+chào thầy. cho em hỏi thế nào là giao tiếp phi ngôn ngữ? e chan thành cám ơn
+nào giao_tiếp phi ngôn_ngữ chan
+
+0.9992866757450887
+____________________________________________________________________________________________________
+Chào cô: Cô ơi,cho em hỏi: Sự khác nhau giữa nghe chủ động và nghe thụ động là gì ạ? Em cảm ơn!
+khác_nhau nghe chủ_động nghe thụ_động
+----------------------------------------------------------------------------------------------------
+Chào cô: Cô ơi,cho em hỏi: nghe chủ động khác nghe thụ động như thế nào ạ? Em cảm ơn!
+nghe chủ_động khác nghe thụ_động
+
+0.9998672358438098
+____________________________________________________________________________________________________

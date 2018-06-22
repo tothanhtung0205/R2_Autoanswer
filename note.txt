@@ -1,0 +1,34 @@
+Chào Thầy Cô! Thưa Thầy cô cho em hỏi cách để học tốt môn phát triển cá nhân này không Thầy Cô giúp em. Em cảm ơn Thầy Cô!
+cách tốt môn phát_triển cá_nhân không
+----------------------------------------------------------------------------------------------------
+làm sao để phát triển cá nhân
+phát_triển cá_nhân
+
+0.7219527947979361
+
+
+Chào Thầy Cô! Thưa Thầy Cô cho em hỏi làm cách nào để có một cuộc đàm phám tốt nhất,Thầy Cô chỉ giúp em. Em cảm ơn Thầy Cô!
+cách đàm phám tốt nhất
+----------------------------------------------------------------------------------------------------
+Thưa cô cho em hỏi Kỹ năng đàm phám có vai trò như thế nào trong việc có được kết quả đàm phám thành công hay không ? Cám ơn cô !
+kỹ_năng đàm phám vai_trò kết_quả đàm phám thành_công không
+
+0.7118520343802266
+
+
+Thưa cô cho em hỏi? Đám phán kiểu nguyên tắc và đàm phát kiểu lập trường khác nhau như thế nào vậy thưa cô. Trân trọng và cảm ơn cô!!
+đám phán nguyên_tắc đàm phát lập_trường khác nhau
+----------------------------------------------------------------------------------------------------
+đàm phán kiểu nguyên tắc là gì?
+đàm phán nguyên_tắc
+
+0.6101293373657273
+
+
+Chào Thầy Cô! Thưa Thầy Cô cho em hỏi làm cách nào để mình có một bài thuyết trình tốt.Thầy Cô cgir giúp em. Em cảm ơn Thầy Cô!
+cách bài thuyết_trình tốt cgir
+----------------------------------------------------------------------------------------------------
+Thưa thầy cho em hỏi cách để học tốt.Em cảm ơn thầy!
+cách tốt
+
+0.7733322356243385

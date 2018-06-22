@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Question Answering</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+    <!--<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='bootstrap.min.css') }}">-->
+    <!--<script type=text/javascript src="{{ url_for('static', filename='bootstrap.min.js') }}"></script>-->
+    <!--<script type=text/javascript src="{{ url_for('static', filename='jquery.min.js') }}"></script>-->
+
+    <script>
+
+    $(document).ready(function(){
+    $("body").on("click",".btn_ans input" ,function() {
+         var ans_content = JSON.parse($(this).attr("data"))
+         var ctn = "<div class=well>"+
+                   "<h3>Câu hỏi tương tự:</h3><br>" +
+                   "<h4>"+ans_content[0]+"</h4>" +
+                   "<h3>Câu trả lời:</h3><br>"+
+                   "<h4>"+ans_content[1]+"</h4>"+
+                    "</div>"
+         $(".ans_content").html(ctn);
+
+
+    });
+   });
+
+
+    // function sendToTeacher() {
+    //     var params = $("#question").val();
+    //     var url = "http://127.0.0.1:8008/teacher"; 
+    //     postRequest(params,url,setAnswerContent);
+    //     alert("Câu hỏi đã được gửi tới giáo viên")
+        
+    // }
+    function responseAnswer() {
+        alert("Response to student");
+        var ans = $("#teacher_ans_content").val();
+        $("#send_teacher").hide();
+        $(".ans_content").html( "<h3>"+ ans +"</h3>");
+        $(".btn_ans").html("");
+        var ques = $("#question").val();
+
+        var params = ques +"---"+ ans;
+        var url = "http://127.0.0.1:8008/update";
+        postRequest(params,url,function(){console.log("Sent to server!!!")})
+
+    }
+
+    function sendToTeacher() {
+        alert("Đã gửi câu hỏi cho giảng viên");
+        $("#teacher_ans").html(
+            "<h3 style='margin-left:20px;margin-top:20px'> Giảng viên trả lời </h3>"+
+            "<input type = 'text' id='teacher_ans_content' style='height:100px;width:100%'>" +
+            "<button type='button' style='margin-top:10px' class='btn btn-info' onclick='responseAnswer()'>Trả lời</button>"
+            )
+    }
+
+    function postRequest(params,url,cb) {
+        var http = new XMLHttpRequest();
+        http.open("POST", url, true);
+        http.setRequestHeader("Content-type", "text/plain; charset=UTF-8");
+
+        http.onreadystatechange = function () {//Call a function when the state changes.
+            if (http.readyState == 4 && http.status == 200) {
+                var res = http.responseText;
+                cb(res);
+            }
+        }
+        http.send(params);
+    }
+
+    function setAnswerContent(res) {
+        if (res == "none") {
+                $(".btn_ans").html("<h3>Hệ thống chưa có câu trả lời . Vui lòng đặt câu hỏi trực tiếp cho giáo viên</h3>");
+                $(".ans_content").html("");
+                }
+                else{
+                var x = JSON.parse(res);
+                $(".ans_content").html("");
+                $(".btn_ans").html("");
+                for (i=0;i<x.length;i++) {
+                 click1 = JSON.stringify(x[i]);
+                    var r=$('<input/>').attr({
+                        id:"btn"+(i+1),
+                        type: "button",
+                        value: "Câu trả lời"+(i+1),
+                        data:click1,
+                        class:"btn btn-success"
+                    });
+                    $(".btn_ans").append(r)
+                }
+                    
+            }
+
+    }
+
+    function getAllAnswer() {
+        $("#send_teacher").html("<input class='btn btn-warning' onclick=sendToTeacher() type='button' value='Gửi câu hỏi đến giảng viên'>")
+        $("#send_teacher").show()
+        $("#teacher_ans").html("")
+        var params = $("#question").val();
+        console.log(params);
+        var url = "http://127.0.0.1:8008/qa";
+        postRequest(params,url,setAnswerContent);
+    }
+
+</script>
+
+</head>
+
+<body style="margin-left:10px">
+<div style="width:50%;float:left">
+
+    <div class="form-group">
+
+        <h3>Hệ thống hỏi đáp môn phát triển kỹ năng cá nhân</h3>
+    <input type = "text" id="question" style="height:100px;width:100%">
+    <div id="group_btn_ans">
+    <button type="button" style="margin-bottom:10px;margin-top:10px" class="btn btn-info" onclick="getAllAnswer()"> Đặt câu hỏi</button>  
+    <div id="send_teacher"></div>      
+    </div>
+    </div >
+        
+            <div class="btn_ans"></div>
+            <div class="ans_content"></div>
+        
+</div>
+
+    <div id="teacher_ans" style="float:left;margin-left:30px ; width:40%">
+
+    </div>
+</body>
+</html>

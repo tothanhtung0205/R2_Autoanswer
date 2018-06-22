@@ -1,0 +1,7 @@
+bài_tập||bài tập
+học_tập||học tập
+không||ko, k
+đối_tác||họ
+kỹ_năng||kỷ năng,kỉ năng,kĩ năng
+biểu_hiện||biểu hiện
+thành_công||thành công
