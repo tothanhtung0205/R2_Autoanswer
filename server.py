@@ -9,7 +9,7 @@ model = TfidfModel('data/phat_trien_ky_nang/train.txt','data/phat_trien_ky_nang/
 app = Flask('qa')
 
 
-@app.route('/',methods = ['GET'])
+@app.route('/ptkn',methods = ['GET'])
 def homepage():
 	return render_template('home.html')
 
